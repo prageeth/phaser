@@ -1,18 +1,18 @@
 {
-  "name": "phaser",
+  "name": "@prageeths/phaser",
   "version": "2.6.2",
   "release": "Kore Springs",
   "description": "A fast, free and fun HTML5 Game Framework for Desktop and Mobile web browsers.",
-  "author": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)",
-  "logo": "https://raw.github.com/photonstorm/phaser/master/phaser-logo-small.png",
+  "author": "Prageeth Silva <prageethsilva@gmail.com>",
+  "logo": "https://raw.github.com/prageeth/phaser/master/phaser-logo-small.png",
   "homepage": "http://phaser.io",
-  "bugs": "https://github.com/photonstorm/phaser/issues",
+  "bugs": "https://github.com/prageeth/phaser/issues",
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
   "main": "./build/phaser.js",
   "repository": {
     "type": "git",
-    "url": "https://photonstorm@github.com/photonstorm/phaser.git"
+    "url": "https://prageeth@github.com/prageeth/phaser.git"
   },
   "scripts": {
     "test": "NODE_ENV=test grunt jshint"
